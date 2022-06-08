@@ -1,3 +1,7 @@
 main {
-
+    transform: skew(-5deg, -5deg);
+  }
+.info{
+    font-weight: 900;
+    font-size: large;
 }
